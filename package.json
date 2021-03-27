@@ -1,6 +1,6 @@
 {
   "name": "raja",
-  "homepage": "https://mozammilrja.github.io/firebase-portfolio",
+  "homepage": "https://mozammilrja.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -49,11 +49,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mozammilrja/rajam.git"
+    "url": "git+https://github.com/mozammilrja/portfolio.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mozammilrja/rajam/issues"
+    "url": "https://github.com/mozammilrja/portfolio/issues"
   }
 }
